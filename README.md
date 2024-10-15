@@ -1,4 +1,4 @@
-<h1 align="center">Me llamo Lorenzo Correa</h1>
+<h1 align="center">Lorenzo Correa</h1>
 <h3 align="center">Estudiante de Licenciatura en Ciencias de la Computación en la Universidad Nacional de Rosario</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzo393&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzo393" /> </p>
