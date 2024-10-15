@@ -12,14 +12,14 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**About Me:**
+**Sobre mi:**
 
 - Estudiante de la Licenciatura en Ciencias de la Computacion en la Universidad Nacional de Rosario
 - I’m currently learning ????
 
 ---
 
-**Languages and Tools:**
+**Lenguajes y herramientas:**
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
