@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 **Sobre mi:**
 
 - Estudiante de la Licenciatura en Ciencias de la Computacion en la Universidad Nacional de Rosario
-- I’m currently learning ???? python???
+- Actualmente estoy aprendiendo ???? python???
 
 ---
 
