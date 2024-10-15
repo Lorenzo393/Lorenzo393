@@ -1,35 +1,19 @@
-![Python-Dark](https://github.com/user-attachments/assets/bc6c46a8-3776-4d94-b73c-ae18681501aa)<!-- Your title -->
-## Hello, I'm Jhon Sanchichon!
+<h1 align="center">Me llamo Lorenzo Correa</h1>
+<h3 align="center">Estudiante de Licenciatura en Ciencias de la Computación en la Universidad Nacional de Rosario</h3>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzo393&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzo393" /> </p>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([https://github.com/zjayers](https://github.com/Lorenzo393?tab=overview&from=2024-10-01&to=2024-10-15))
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorenzo393" alt="lorenzo393" /></a> </p>
 
-&nbsp;
-
-<!-- Talking about you -->
-**Sobre mi:**
-
-- Estudiante de la Licenciatura en Ciencias de la Computacion en la Universidad Nacional de Rosario
-- Actualmente estoy aprendiendo ???? python???
-
----
-
-**Lenguajes y herramientas:**
-
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/Lorenzo393/github-readme-stats">
-   <img width="60%" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=Lorenzo393&show_icons=true&hide_border=true" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzo393&show_icons=true&locale=en&layout=compact" alt="lorenzo393" /></p>
 
------
-Credits: [zjayers](https://github.com/zjayers)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzo393&show_icons=true&locale=en" alt="lorenzo393" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzo393&" alt="lorenzo393" /></p>
